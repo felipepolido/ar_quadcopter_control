@@ -1,8 +1,0 @@
-prefix=/home/river/quad/ar_quadcopter_control/devel
-
-Name: ar_quad
-Description: Description of ar_quad
-Version: 0.0.0
-Cflags: -I/home/river/quad/ar_quadcopter_control/src/ar_quad/include
-Libs: -L/home/river/quad/ar_quadcopter_control/devel/lib 
-Requires: 
