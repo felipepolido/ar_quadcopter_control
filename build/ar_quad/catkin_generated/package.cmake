@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "ar_quad")
+set(ar_quad_MAINTAINER "river <river@todo.todo>")
+set(ar_quad_DEPRECATED "")
+set(ar_quad_VERSION "0.0.0")
+set(ar_quad_BUILD_DEPENDS "rospy" "roscpp" "std_msgs")
+set(ar_quad_RUN_DEPENDS "rospy" "roscpp" "std_msgs")
+set(ar_quad_BUILDTOOL_DEPENDS "catkin")

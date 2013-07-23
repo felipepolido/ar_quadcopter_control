@@ -1,0 +1,13 @@
+/home/river/quad/ar_quadcopter_control/install/.catkin
+/home/river/quad/ar_quadcopter_control/install/_setup_util.py
+/home/river/quad/ar_quadcopter_control/install/env.sh
+/home/river/quad/ar_quadcopter_control/install/setup.bash
+/home/river/quad/ar_quadcopter_control/install/setup.sh
+/home/river/quad/ar_quadcopter_control/install/setup.zsh
+/home/river/quad/ar_quadcopter_control/install/.rosinstall
+/home/river/quad/ar_quadcopter_control/install/etc/catkin/profile.d/05.catkin_make.bash
+/home/river/quad/ar_quadcopter_control/install/etc/catkin/profile.d/05.catkin_make_isolated.bash
+/home/river/quad/ar_quadcopter_control/install/lib/pkgconfig/ar_quad.pc
+/home/river/quad/ar_quadcopter_control/install/share/ar_quad/cmake/ar_quadConfig.cmake
+/home/river/quad/ar_quadcopter_control/install/share/ar_quad/cmake/ar_quadConfig-version.cmake
+/home/river/quad/ar_quadcopter_control/install/share/ar_quad/package.xml
